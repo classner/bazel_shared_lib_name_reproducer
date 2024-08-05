@@ -1,0 +1,3 @@
+"""Main module file."""
+module(name = "bazel_data_reproducer", version = "0.1.0")
+bazel_dep(name = "googletest", version = "1.15.2")
